@@ -1,5 +1,5 @@
 # Capstone606
-# Prediction of Intensity of Earthquakes
+# Prediction of Intensity of the Earthquakes
 
 
 
